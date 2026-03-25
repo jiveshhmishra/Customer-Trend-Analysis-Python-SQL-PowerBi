@@ -1,15 +1,15 @@
-# Customer Shopping Behavior Analysis  
+# 🛍️ Customer Shopping Behavior Analysis  
 
 ---
 
-## Table of Contents  
-- [Overview](#overview)  
-- [Dataset](#dataset)  
-- [Tools and Technologies](#tools-and-technologies)  
-- [Project Workflow](#project-workflow)  
-- [Power BI Dashboard](#power-bi-dashboard)  
-- [Results and Insights](#results-and-insights)  
-- [Report and Presentation](#report-and-presentation)  
+## 📌 Table of Contents  
+- 🔍 [Overview](#overview)  
+- 📊 [Dataset](#dataset)  
+- 🛠️ [Tools and Technologies](#tools-and-technologies)  
+- 🔄 [Project Workflow](#project-workflow)  
+- 📈 [Power BI Dashboard](#power-bi-dashboard)  
+- 💡 [Results and Insights](#results-and-insights)  
+- 📄 [Report and Presentation](#report-and-presentation)  
 
 ---
 
