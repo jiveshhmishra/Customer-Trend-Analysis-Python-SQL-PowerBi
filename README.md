@@ -1,19 +1,19 @@
-# 🛍️ Customer Shopping Behavior Analysis  
+# Customer Shopping Behavior Analysis  
 
 ---
 
-## 📌 Table of Contents  
+## Table of Contents  
 - [Overview](#overview)  
 - [Dataset](#dataset)  
-- [Tools & Technologies](#tools--technologies)  
+- [Tools and Technologies](#tools-and-technologies)  
 - [Project Workflow](#project-workflow)  
 - [Power BI Dashboard](#power-bi-dashboard)  
-- [Results & Insights](#results--insights)  
-- [Report & Presentation](#report--presentation)  
+- [Results and Insights](#results-and-insights)  
+- [Report and Presentation](#report-and-presentation)  
 
 ---
 
-## 📌 Overview  
+## Overview  
 This project focuses on analyzing customer shopping behavior using a complete data analytics pipeline.  
 
 - Understand customer purchasing patterns and trends  
@@ -24,7 +24,7 @@ This project focuses on analyzing customer shopping behavior using a complete da
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 The dataset contains structured customer transaction data.  
 
 - Includes 3000+ records with multiple features  
@@ -35,21 +35,21 @@ The dataset contains structured customer transaction data.
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools and Technologies  
 The project uses a combination of modern data analytics tools:  
 
-- **Python** – data cleaning, preprocessing, and EDA  
-- **Pandas & NumPy** – data manipulation and transformation  
-- **Matplotlib & Seaborn** – visualization during EDA  
-- **SQL** – querying and extracting insights  
-- **Power BI** – dashboard and reporting  
-- **Gamma** – presentation creation  
+- Python – data cleaning, preprocessing, and EDA  
+- Pandas and NumPy – data manipulation and transformation  
+- Matplotlib and Seaborn – visualization during EDA  
+- SQL – querying and extracting insights  
+- Power BI – dashboard and reporting  
+- Gamma – presentation creation  
 
 ---
 
-## 🔄 Project Workflow  
+## Project Workflow  
 
-### 🔗 [Data Loading & Cleaning](#data-loading--cleaning)  
+### Data Loading and Cleaning  
 - Loaded dataset using Pandas DataFrame  
 - Checked structure using `.info()` and `.describe()`  
 - Handled missing values using appropriate techniques  
@@ -58,7 +58,7 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-### 🔗 [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+### Exploratory Data Analysis (EDA)  
 - Analyzed customer demographics (age, gender)  
 - Studied category-wise sales distribution  
 - Identified top-selling products  
@@ -67,7 +67,7 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-### 🔗 [SQL Analysis](#sql-analysis)  
+### SQL Analysis  
 - Wrote queries for category-wise revenue  
 - Calculated average purchase value  
 - Performed customer segmentation  
@@ -76,9 +76,9 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-## 📊 Power BI Dashboard  
+## Power BI Dashboard  
 
-### 🔗 [Dashboard Details](#dashboard-details)  
+### Dashboard Details  
 - Created interactive and dynamic dashboard  
 - Included KPI cards (Total Sales, Customers, AOV)  
 - Category-wise and customer-wise analysis  
@@ -87,9 +87,9 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-## 📈 Results & Insights  
+## Results and Insights  
 
-### 🔗 [Key Findings](#key-findings)  
+### Key Findings  
 - Certain categories contribute majority of revenue  
 - Discounts significantly increase purchase frequency  
 - Specific age groups show higher engagement  
@@ -98,16 +98,16 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-## 📄 Report & Presentation  
+## Report and Presentation  
 
-### 🔗 [Report Creation](#report-creation)  
+### Report Creation  
 - Documented complete project workflow  
 - Included data cleaning, EDA, and SQL insights  
 - Explained dashboard visuals clearly  
 - Structured report for readability  
 - Highlighted key business insights  
 
-### 🔗 [Presentation (Gamma)](#presentation-gamma)  
+### Presentation (Gamma)  
 - Created visually appealing slides  
 - Summarized key findings and insights  
 - Added charts and dashboard screenshots  
@@ -116,5 +116,5 @@ The project uses a combination of modern data analytics tools:
 
 ---
 
-## 📌 Conclusion  
+## Conclusion  
 This project demonstrates how raw data can be transformed into meaningful insights using a structured analytics approach. It highlights the importance of combining Python, SQL, and Power BI for effective decision-making.  
