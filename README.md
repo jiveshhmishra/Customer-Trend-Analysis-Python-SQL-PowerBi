@@ -1,70 +1,120 @@
-# Customer-Trend-Analysis-Python-SQL-PowerBi
-🛍️ Customer Shopping Behavior Analysis
-📌 Overview
+# 🛍️ Customer Shopping Behavior Analysis  
 
-This project focuses on analyzing customer shopping behavior using a complete data analytics workflow. The goal is to extract meaningful insights from raw transactional data and help businesses understand customer preferences, spending patterns, and sales trends.
+---
 
-The project covers data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, dashboard creation in Power BI, and final reporting with presentation support.
+## 📌 Table of Contents  
+- [Overview](#overview)  
+- [Dataset](#dataset)  
+- [Tools & Technologies](#tools--technologies)  
+- [Project Workflow](#project-workflow)  
+- [Power BI Dashboard](#power-bi-dashboard)  
+- [Results & Insights](#results--insights)  
+- [Report & Presentation](#report--presentation)  
 
-📊 Dataset
+---
 
-The dataset contains customer transaction data, including:
+## 📌 Overview  
+This project focuses on analyzing customer shopping behavior using a complete data analytics pipeline.  
 
-Customer demographics (age, gender, location)
-Purchase details (product, category, amount)
-Discounts and promotional usage
-Customer ratings and feedback
+- Understand customer purchasing patterns and trends  
+- Identify high-performing product categories  
+- Analyze the impact of discounts and promotions  
+- Perform end-to-end analytics (Python → SQL → Power BI)  
+- Convert raw data into actionable business insights  
 
-The data was cleaned and preprocessed to ensure accuracy and consistency before analysis.
+---
 
-🛠️ Tools & Technologies
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL (for querying and data analysis)
-Power BI (for interactive dashboard creation)
-Jupyter Notebook (for analysis workflow)
-Gamma (for presentation creation)
-🔄 Project Workflow / Steps
-1. Data Loading (Python)
-Imported dataset using Pandas
-Checked structure and data types
-2. Data Cleaning
-Handled missing values
-Removed duplicates
-Corrected data types
-Created new features (e.g., age groups, categories)
-3. Exploratory Data Analysis (EDA)
-Analyzed customer demographics
-Studied purchasing patterns
-Identified top-performing categories
-Examined discount impact and seasonal trends
-4. SQL Analysis
-Wrote queries to extract insights such as:
-Total revenue by category
-Customer segmentation
-Average purchase value
-Rating-based comparisons
-5. Power BI Dashboard
-Built an interactive dashboard with:
-KPI metrics (Total Sales, Customers, Avg Order Value)
-Category-wise performance
-Customer segmentation visuals
-Filters for dynamic analysis
-6. Report Creation
-Documented findings and insights in a structured report
-7. Presentation (Gamma)
-Created a professional presentation to showcase insights and outcomes
-📈 Dashboard Highlights
-Clear visualization of sales trends
-Easy comparison across categories
-Interactive filters for deeper analysis
-Business-focused KPIs for decision-making
-💡 Key Results / Insights
-Certain product categories contribute the highest revenue
-Discounts significantly influence customer purchases
-Specific age groups show higher spending behavior
-Loyal customers generate consistent revenue
-Customer ratings vary across categories, impacting sales
+## 📊 Dataset  
+The dataset contains structured customer transaction data.  
 
-📌 Conclusion
+- Includes 3000+ records with multiple features  
+- Customer details: age, gender, location  
+- Purchase details: product, category, amount  
+- Behavioral data: frequency, discounts, promo usage  
+- Feedback: customer ratings and reviews  
 
-This project demonstrates an end-to-end data analytics pipeline, transforming raw data into actionable business insights. It highlights how Python, SQL, and Power BI can be combined to support data-driven decision-making.
+---
+
+## 🛠️ Tools & Technologies  
+The project uses a combination of modern data analytics tools:  
+
+- **Python** – data cleaning, preprocessing, and EDA  
+- **Pandas & NumPy** – data manipulation and transformation  
+- **Matplotlib & Seaborn** – visualization during EDA  
+- **SQL** – querying and extracting insights  
+- **Power BI** – dashboard and reporting  
+- **Gamma** – presentation creation  
+
+---
+
+## 🔄 Project Workflow  
+
+### 🔗 [Data Loading & Cleaning](#data-loading--cleaning)  
+- Loaded dataset using Pandas DataFrame  
+- Checked structure using `.info()` and `.describe()`  
+- Handled missing values using appropriate techniques  
+- Removed duplicate records  
+- Converted incorrect data types  
+
+---
+
+### 🔗 [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+- Analyzed customer demographics (age, gender)  
+- Studied category-wise sales distribution  
+- Identified top-selling products  
+- Analyzed seasonal and behavioral trends  
+- Visualized data using charts and graphs  
+
+---
+
+### 🔗 [SQL Analysis](#sql-analysis)  
+- Wrote queries for category-wise revenue  
+- Calculated average purchase value  
+- Performed customer segmentation  
+- Compared ratings across categories  
+- Analyzed discount vs sales relationship  
+
+---
+
+## 📊 Power BI Dashboard  
+
+### 🔗 [Dashboard Details](#dashboard-details)  
+- Created interactive and dynamic dashboard  
+- Included KPI cards (Total Sales, Customers, AOV)  
+- Category-wise and customer-wise analysis  
+- Used slicers for filtering data dynamically  
+- Designed clean and user-friendly layout  
+
+---
+
+## 📈 Results & Insights  
+
+### 🔗 [Key Findings](#key-findings)  
+- Certain categories contribute majority of revenue  
+- Discounts significantly increase purchase frequency  
+- Specific age groups show higher engagement  
+- Loyal customers drive consistent sales  
+- Customer ratings influence product performance  
+
+---
+
+## 📄 Report & Presentation  
+
+### 🔗 [Report Creation](#report-creation)  
+- Documented complete project workflow  
+- Included data cleaning, EDA, and SQL insights  
+- Explained dashboard visuals clearly  
+- Structured report for readability  
+- Highlighted key business insights  
+
+### 🔗 [Presentation (Gamma)](#presentation-gamma)  
+- Created visually appealing slides  
+- Summarized key findings and insights  
+- Added charts and dashboard screenshots  
+- Focused on business storytelling  
+- Designed for easy understanding by stakeholders  
+
+---
+
+## 📌 Conclusion  
+This project demonstrates how raw data can be transformed into meaningful insights using a structured analytics approach. It highlights the importance of combining Python, SQL, and Power BI for effective decision-making.  
